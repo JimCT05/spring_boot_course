@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PracticaPropuesta1Application<PracticaPropuesta1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.PracticaPropuesta1.PracticaPropuesta1Application",
+            "projectName": "PracticaPropuesta1",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
