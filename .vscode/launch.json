@@ -9,6 +9,16 @@
             "projectName": "PracticaPropuesta1",
             "args": "",
             "envFile": "${workspaceFolder}/.env"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CursoConSpringBootApplication<cursoSpringBoot>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "cursoSpringBoot.CursoConSpringBootApplication",
+            "projectName": "cursoSpringBoot",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
         }
     ]
 }
